@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/fancyflags/commit/154f0d029010ea25da40ba4e0c2fb477f114395e",
       "git:hexsha": "154f0d029010ea25da40ba4e0c2fb477f114395e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/fancyflags/commit/9b1c559aefeb9b2cbea36c1d1ba8054fd595e0f2",
